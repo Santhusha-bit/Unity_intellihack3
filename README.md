@@ -35,6 +35,7 @@
 - https://archive.ics.uci.edu/ml/datasets/Breast+Cancer
 
 ## Project Setup
+
 ### Web app tech stack
 * Streamlit - frontend & backend
 * Detaspace - database
@@ -42,9 +43,7 @@
 * pandas - data cleaning
 * plotly - visualisation
 
-Enter the detailed info about project setup here.
-
-### Running the Project
+## Running the Project
 
 Clone the repository from github.
 
